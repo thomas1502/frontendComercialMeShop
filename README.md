@@ -1,1 +1,1 @@
-# frontendComercialMeShop
+Frontend para Dashboard de MeShop
